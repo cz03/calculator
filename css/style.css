@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Red+Hat+Display&display=swap);
+
+body {
+	text-align: left;
+	font-family: 'Red Hat Display', sans-serif;
+	font-weight: 100;
+	background-color: #141414;
+}
+
+.calc {
+	display: inline-block;
+	color: white;
+}
+
+.string > input {
+	display: inline-block;
+	margin: 10px;
+	height: 30px;
+	width: 60%;
+}
+
+.string {
+	display: inline-block;
+	width: 90%;
+}	
+
+.string > p {
+	display: inline-block;
+	width: 40px;
+}

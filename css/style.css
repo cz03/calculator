@@ -28,3 +28,9 @@ body {
 	display: inline-block;
 	width: 40px;
 }
+
+.thickness > p {
+	font-size: 15px;
+	margin: 0px 0px 10px 0px;
+	vertical-align: bottom;
+}

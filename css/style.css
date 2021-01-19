@@ -14,7 +14,7 @@ body {
 
 .string > input {
 	font-family: inherit;
-	font-size: 20px;
+	font-size: 1.5em;
 	display: inline-block;
 	margin: 10px;
 	height: 30px;

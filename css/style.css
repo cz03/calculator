@@ -13,6 +13,8 @@ body {
 }
 
 .string > input {
+	font-family: inherit;
+	font-size: 20px;
 	display: inline-block;
 	margin: 10px;
 	height: 30px;

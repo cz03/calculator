@@ -1,7 +1,7 @@
 
 
 $('.calc').on('input', $('input'), function() {
-	$('input')[3].value = $('input')[0].value * ($('input')[1].value * $('select option:selected').val() + Number($('input')[2].value));
+	$('input')[2].value = $('input')[0].value * ($('input')[1].value * $('select option:selected').val());
 });
 
 $('.calc').on('change', $('select'), function() {

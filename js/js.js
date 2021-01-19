@@ -5,7 +5,7 @@ $('.calc').on('input', $('input'), function() {
 });
 
 $('.calc').on('change', $('select'), function() {
-	if ($('select option:selected').text() == 'Полимочевина') {
+	if ($('select option:selected').text() === 'Полимочевина') {
 		$('.thick').text('Толщина в ММ');
 	} else {
 		$('.thick').text('Толщина в СМ');

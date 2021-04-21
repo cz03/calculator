@@ -63,6 +63,9 @@ body {
 		border-right: 10px solid transparent;
 		border-bottom: 60px solid white;
 	}
+	.triangle > option {
+		display: none;
+	}
 	.rectangle > p {
 		height: 40px;
   		width: 40px;

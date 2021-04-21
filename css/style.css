@@ -55,7 +55,7 @@ body {
 .pen, .col {
 	width: inherit;
 }
-@media screen and (min-width: 85px) {
+@media screen and (min-width: 65px) {
 	.triangle {
 		width: 0;
 		height: 0;

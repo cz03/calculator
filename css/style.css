@@ -73,4 +73,7 @@ body {
   		background-color: white;
 		margin-left: 10px;
 	}
+	string {
+		width: 30px;
+	}
 }

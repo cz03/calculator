@@ -57,13 +57,16 @@ body {
 }
 @media screen and (max-width: 65px) {
 	.triangle {
-		display: none;
 		width: 0;
 		height: 0;
 		border-left: 10px solid transparent;
 		border-right: 10px solid transparent;
 		border-bottom: 60px solid white;
 	}
+	select {
+		display: none;
+	}
+	
 	.rectangle > p {
 		height: 30px;
   		width: 30px;
